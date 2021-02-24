@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<peroane>
+    <persoana id="1">
+        <nume>Popescu</nume>
+        <prenume>Ion</prenume>
+        <varsta>23</varsta>
+    </persoana>
+    <persoana id="2">
+        <nume>A</nume>
+        <prenume>B</prenume>
+        <varsta>18</varsta>
+    </persoana>
+    <persoana id="3">
+        <nume>C</nume>
+        <prenume>D</prenume>
+        <varsta>30</varsta>
+    </persoana>
+    <persoana id="4">
+        <nume>E</nume>
+        <prenume>F</prenume>
+        <varsta>5</varsta>
+    </persoana>
+</peroane>
