@@ -4,20 +4,48 @@
         <nume>Popescu</nume>
         <prenume>Ion</prenume>
         <varsta>23</varsta>
+        <adresa>
+            <strada>Dimitrie Mageron</strada>
+            <numar>27</numar>
+            <localitate>Iasi</localitate>
+            <judet>Iasi</judet>
+            <tara>Romania</tara>
+        </adresa>
     </persoana>
     <persoana id="2">
         <nume>A</nume>
         <prenume>B</prenume>
         <varsta>18</varsta>
+        <adresa>
+            <strada>StrA</strada>
+            <numar>NrA</numar>
+            <localitate>LocA</localitate>
+            <judet>JudA</judet>
+            <tara>TaraA</tara>
+        </adresa>
     </persoana>
     <persoana id="3">
         <nume>C</nume>
         <prenume>D</prenume>
         <varsta>30</varsta>
+        <adresa>
+            <strada>StrC</strada>
+            <numar>NrC</numar>
+            <localitate>LocC</localitate>
+            <judet>JudC</judet>
+            <tara>TaraC</tara>
+        </adresa>
     </persoana>
     <persoana id="4">
         <nume>E</nume>
         <prenume>F</prenume>
         <varsta>5</varsta>
+        <adresa>
+            <strada>StrE</strada>
+            <numar>NrE</numar>
+            <localitate>LocE</localitate>
+            <judet>JudE</judet>
+            <tara>TaraE</tara>
+        </adresa>
     </persoana>
 </peroane>
